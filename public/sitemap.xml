@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/lainland/tags/fibre-arts/</loc>
-    <lastmod>2025-10-08T14:42:32+01:00</lastmod>
+    <loc>http://localhost:1313/lainland/tags/chronic-illness/</loc>
+    <lastmod>2026-01-06T11:26:34+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lainland/tags/disability/</loc>
+    <lastmod>2026-01-06T11:26:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/lainland/</loc>
-    <lastmod>2025-10-08T14:42:32+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/lainland/posts/spinning/</loc>
-    <lastmod>2025-10-08T14:42:32+01:00</lastmod>
+    <lastmod>2026-01-06T11:26:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/lainland/posts/</loc>
-    <lastmod>2025-10-08T14:42:32+01:00</lastmod>
+    <lastmod>2026-01-06T11:26:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lainland/tags/spinning/</loc>
-    <lastmod>2025-10-08T14:42:32+01:00</lastmod>
+    <loc>http://localhost:1313/lainland/posts/sick-day/</loc>
+    <lastmod>2026-01-06T11:26:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/lainland/tags/</loc>
+    <lastmod>2026-01-06T11:26:34+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lainland/posts/babys-first-boucle/</loc>
+    <lastmod>2025-11-11T16:24:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lainland/tags/fibre-arts/</loc>
+    <lastmod>2025-11-11T16:24:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lainland/tags/spinning/</loc>
+    <lastmod>2025-11-11T16:24:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lainland/posts/spinning/</loc>
     <lastmod>2025-10-08T14:42:32+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/lainland/posts/my-favourite-citizen-scientist-projects/</loc>
